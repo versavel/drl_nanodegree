@@ -5,7 +5,7 @@
 # Project 1: Navigation
 
 ## Introduction
-This application will train an agent to navigate and collect bananas in a large, square world. It was developed as the first project for Udacity's Deep Reinforcement Learning nanodegree.
+This application will train an agent to navigate and collect bananas in a large, square world. It was developed as the first project for Udacity's Deep Reinforcement Learning nanodegree. See my [report](https://github.com/versavel/drl_nanodegree_navigation/blob/master/Report.md) for a description of my implementation.
 
 ![Trained Agent][image1]
 
@@ -35,6 +35,6 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ## Instructions
 
-* To train the agent: execute the `Train_Agent.ipynb` notebook
-* To watch the trained agent: execute the `Watch_Agent.ipnb` notebook
+* To train the agent: execute the [Train_Agent.ipynb](https://github.com/versavel/drl_nanodegree_navigation/blob/master/Train_Agent.ipynb) notebook
+* To watch the trained agent: execute the [Watch_Agent.ipnb](https://github.com/versavel/drl_nanodegree_navigation/blob/master/Watch_Agent.ipynb) notebook
 
