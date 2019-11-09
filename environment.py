@@ -2,7 +2,7 @@ from unityagents import UnityEnvironment
 
 class Environment():
     """
-    This is a wrapper class for a Unity environments
+    This is a wrapper class for a Unity environment
 
     The Unity environment is wrapped such that the API
     is similar to a Gym environment.
