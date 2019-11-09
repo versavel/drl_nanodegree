@@ -5,7 +5,7 @@
 # Project 1: Navigation
 
 ## Introduction
-This application will train an agent to navigate and collect bananas in a large, square world. It was developed as the first project for Udacity's Deep Reinforcement Learning nanodegree. See my [report](https://github.com/versavel/drl_nanodegree_navigation/blob/master/REPORT.md) for a description of my implementation.
+This application will train an agent to navigate and collect bananas in a large, square world. It was developed as the first project for Udacity's [Deep Reinforcement Learning nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). See my [report](https://github.com/versavel/drl_nanodegree_navigation/blob/master/REPORT.md) for a description of my implementation.
 
 ![Trained Agent][image1]
 
